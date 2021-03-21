@@ -7,3 +7,8 @@ To start make sure you have pip install then do
 ```
 pip install -r requirements.txt
 ```
+
+Then to run use
+```
+app.py <filename>
+```
